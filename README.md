@@ -18,7 +18,7 @@ class About{
     char technologies[5] = {"C", "C++", "Python", "Javascript", "PHP"};
 };
 
-class Others{
+class Others: public About{
   char other_technologies = {"Arduino", "IOT", "ROBOTICS"};
 
   void reachMe(){
