@@ -7,7 +7,7 @@ class About{
 
   private:
     string name;
-    char location[20] = "Nairobi, Kenya;
+    char location[20] = "Nairobi, Kenya";
 
     void setName(string name){
       name = "edwinmwiti";
