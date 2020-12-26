@@ -35,5 +35,5 @@ int main(){
 }
 ```
 
-💬 _Did you know:_ There are two ways to write error-free code. Only the third works!
+💬 _Did you know:_ There are only two ways to write error-free code. Only the third works!:joy:
 
