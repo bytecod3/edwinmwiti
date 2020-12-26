@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
     
-    c++
+    ```c++
     #include <iostream>
     using namespace edwin;
 
@@ -42,7 +42,7 @@ Here are some ideas to get you started:
      }
 
     };
-  
+  ```
 
 💬 _Did you know:_ There are two ways to write error-free code. Only the third works!
 
